@@ -1,5 +1,5 @@
 # manual-entry-project
-Practice project: PDF → spreadsheet → CSV
+Manual data entry from a PDF file into a structured spreadsheet (CSV format). Includes Name, Title, Company, Address, and contact details, when available on the resource file.
 
 ## Project Structure
 
